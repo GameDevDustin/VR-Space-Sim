@@ -1,0 +1,504 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7175888338308760324
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3563285537474987633}
+  m_Layer: 0
+  m_Name: ScifiFreighterMKIContainerLargeMasterPrefab
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3563285537474987633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7175888338308760324}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5180129878734382432}
+  - {fileID: 8249062936085989864}
+  - {fileID: 8600604430581311622}
+  - {fileID: 1958688603011948461}
+  - {fileID: 6579149183535967269}
+  - {fileID: 2992835312504836022}
+  - {fileID: 4842321142187829226}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1954734951908053571
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3563285537474987633}
+    m_Modifications:
+    - target: {fileID: 1000010927707266, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_Name
+      value: ScifiFreighterMKIContainerLargeGrey
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010927707266, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000004390882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0c1d6b2154c990942828c94b84574389, type: 3}
+--- !u!4 &1958688603011948461 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011199647214, guid: 0c1d6b2154c990942828c94b84574389,
+    type: 3}
+  m_PrefabInstance: {fileID: 1954734951908053571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2992248469088862808
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3563285537474987633}
+    m_Modifications:
+    - target: {fileID: 1000010927707266, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_Name
+      value: ScifiFreighterMKIContainerLargeBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000004390882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_RootOrder
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 7d09e1ee17b4b73458fe509edfb4c517, type: 3}
+--- !u!4 &2992835312504836022 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011199647214, guid: 7d09e1ee17b4b73458fe509edfb4c517,
+    type: 3}
+  m_PrefabInstance: {fileID: 2992248469088862808}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &4845121757996067332
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3563285537474987633}
+    m_Modifications:
+    - target: {fileID: 1000010927707266, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_Name
+      value: ScifiFreighterMKIContainerLargeBlack
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010927707266, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000004390882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_RootOrder
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: efeffb40ce9108a4983bbcde86c8b7af, type: 3}
+--- !u!4 &4842321142187829226 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011199647214, guid: efeffb40ce9108a4983bbcde86c8b7af,
+    type: 3}
+  m_PrefabInstance: {fileID: 4845121757996067332}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5182993706801604750
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3563285537474987633}
+    m_Modifications:
+    - target: {fileID: 1000010927707266, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_Name
+      value: ScifiFreighterMKIContainerLargeYellow
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010927707266, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000004390882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 87dfe3235ac6c534999457a5efa3f559, type: 3}
+--- !u!4 &5180129878734382432 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011199647214, guid: 87dfe3235ac6c534999457a5efa3f559,
+    type: 3}
+  m_PrefabInstance: {fileID: 5182993706801604750}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6576346919731290571
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3563285537474987633}
+    m_Modifications:
+    - target: {fileID: 1000010927707266, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_Name
+      value: ScifiFreighterMKIContainerLargeGreen
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010927707266, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000004390882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: a8bf90130eca6554c98187a7602ffcc5, type: 3}
+--- !u!4 &6579149183535967269 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011199647214, guid: a8bf90130eca6554c98187a7602ffcc5,
+    type: 3}
+  m_PrefabInstance: {fileID: 6576346919731290571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8247422382769701894
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3563285537474987633}
+    m_Modifications:
+    - target: {fileID: 1000010927707266, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_Name
+      value: ScifiFreighterMKIContainerLargeWhite
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010927707266, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000004390882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5afd7438c33b554469444acf263e21aa, type: 3}
+--- !u!4 &8249062936085989864 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011199647214, guid: 5afd7438c33b554469444acf263e21aa,
+    type: 3}
+  m_PrefabInstance: {fileID: 8247422382769701894}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8598860239704696168
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 3563285537474987633}
+    m_Modifications:
+    - target: {fileID: 1000010927707266, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_Name
+      value: ScifiFreighterMKIContainerLargeRed
+      objectReference: {fileID: 0}
+    - target: {fileID: 1000010927707266, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0000004390882
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2564401de6ffb9f4a884e8c9c6e06b4a, type: 3}
+--- !u!4 &8600604430581311622 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4000011199647214, guid: 2564401de6ffb9f4a884e8c9c6e06b4a,
+    type: 3}
+  m_PrefabInstance: {fileID: 8598860239704696168}
+  m_PrefabAsset: {fileID: 0}
