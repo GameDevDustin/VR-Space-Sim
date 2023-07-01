@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 3f159cc2276637a4bb9b7c4d444273f3
+timeCreated: 1474560617
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: fragment_0
+    100002: fragment_1
+    100004: fragment_2
+    100006: fragment_3
+    100008: fragment_4
+    100010: fragment_5
+    100012: fragment_6
+    100014: fragment_7
+    100016: //RootNode
+    100018: fragment_0_Collision
+    100020: fragment_1_Collision
+    100022: fragment_2_Collision
+    100024: fragment_3_Collision
+    100026: fragment_4_Collision
+    100028: fragment_5_Collision
+    100030: fragment_6_Collision
+    100032: fragment_7_Collision
+    100034: Medium2_FragCol_0
+    100036: Medium2_FragCol_1
+    100038: Medium2_FragCol_2
+    100040: Medium2_FragCol_3
+    100042: Medium2_FragCol_4
+    100044: Medium2_FragCol_5
+    100046: Medium2_FragCol_6
+    100048: Medium2_FragCol_7
+    400000: fragment_0
+    400002: fragment_1
+    400004: fragment_2
+    400006: fragment_3
+    400008: fragment_4
+    400010: fragment_5
+    400012: fragment_6
+    400014: fragment_7
+    400016: //RootNode
+    400018: fragment_0_Collision
+    400020: fragment_1_Collision
+    400022: fragment_2_Collision
+    400024: fragment_3_Collision
+    400026: fragment_4_Collision
+    400028: fragment_5_Collision
+    400030: fragment_6_Collision
+    400032: fragment_7_Collision
+    400034: Medium2_FragCol_0
+    400036: Medium2_FragCol_1
+    400038: Medium2_FragCol_2
+    400040: Medium2_FragCol_3
+    400042: Medium2_FragCol_4
+    400044: Medium2_FragCol_5
+    400046: Medium2_FragCol_6
+    400048: Medium2_FragCol_7
+    2300000: fragment_0
+    2300002: fragment_1
+    2300004: fragment_2
+    2300006: fragment_3
+    2300008: fragment_4
+    2300010: fragment_5
+    2300012: fragment_6
+    2300014: fragment_7
+    2300016: fragment_0_Collision
+    2300018: fragment_1_Collision
+    2300020: fragment_2_Collision
+    2300022: fragment_3_Collision
+    2300024: fragment_4_Collision
+    2300026: fragment_5_Collision
+    2300028: fragment_6_Collision
+    2300030: fragment_7_Collision
+    2300032: Medium2_FragCol_0
+    2300034: Medium2_FragCol_1
+    2300036: Medium2_FragCol_2
+    2300038: Medium2_FragCol_3
+    2300040: Medium2_FragCol_4
+    2300042: Medium2_FragCol_5
+    2300044: Medium2_FragCol_6
+    2300046: Medium2_FragCol_7
+    3300000: fragment_0
+    3300002: fragment_1
+    3300004: fragment_2
+    3300006: fragment_3
+    3300008: fragment_4
+    3300010: fragment_5
+    3300012: fragment_6
+    3300014: fragment_7
+    3300016: fragment_0_Collision
+    3300018: fragment_1_Collision
+    3300020: fragment_2_Collision
+    3300022: fragment_3_Collision
+    3300024: fragment_4_Collision
+    3300026: fragment_5_Collision
+    3300028: fragment_6_Collision
+    3300030: fragment_7_Collision
+    3300032: Medium2_FragCol_0
+    3300034: Medium2_FragCol_1
+    3300036: Medium2_FragCol_2
+    3300038: Medium2_FragCol_3
+    3300040: Medium2_FragCol_4
+    3300042: Medium2_FragCol_5
+    3300044: Medium2_FragCol_6
+    3300046: Medium2_FragCol_7
+    4300000: fragment_6
+    4300002: fragment_7
+    4300004: fragment_5
+    4300006: fragment_4
+    4300008: fragment_2
+    4300010: fragment_1
+    4300012: fragment_3
+    4300014: fragment_0
+    4300016: fragment_0_Collision
+    4300018: fragment_1_Collision
+    4300020: fragment_2_Collision
+    4300022: fragment_3_Collision
+    4300024: fragment_4_Collision
+    4300026: fragment_5_Collision
+    4300028: fragment_6_Collision
+    4300030: fragment_7_Collision
+    4300032: Medium2_FragCol_0
+    4300034: Medium2_FragCol_1
+    4300036: Medium2_FragCol_2
+    4300038: Medium2_FragCol_3
+    4300040: Medium2_FragCol_4
+    4300042: Medium2_FragCol_5
+    4300044: Medium2_FragCol_6
+    4300046: Medium2_FragCol_7
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
